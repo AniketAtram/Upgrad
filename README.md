@@ -1,3 +1,4 @@
+![UpGrad Logo](https://www.dropbox.com/s/wzdbadr1fxjahha/upgrad-logo.png)
 # PG Diploma In Fullstack Software Development
 
 ## Overview
@@ -8,9 +9,9 @@ All of the codes in the repository were working as intended when it was run on m
 
 # INDEX
 
-|Module Number|Assignment Number|Source Code|
-|:--|:--|:--:|
-|One|1|Something.java|
+|Module Number|Assignment Type|Source Code|
+|:--|:--|:--|
+|One|Hands On|AssignmentOne.java|
 
 ## Module One: Introduction to Java programming
 
@@ -25,7 +26,6 @@ In a college, there is a need to store information on teachers as follows:
 5. Address of the teacher
 6. Salary upto 2 decimal places
 
-Suloution : assignmentOne
 
 
 
