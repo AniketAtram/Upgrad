@@ -7,6 +7,11 @@ This is a repository consisting of all the code assignments and projects.
 All the codes in the repository are written by me and comes with no **NO GAURANTEE**.
 All of the codes in the repository were working as intended when it was run on my own personal machine
 
+# Time Table
+|Session Name|Session Date|Status|
+|:--|:--|:--:|
+|Introduction to Java Programming|22/11/2021|- [X]|
+
 # INDEX
 
 |Module Number|Assignment Type|Source Code|
@@ -26,7 +31,6 @@ In a college, there is a need to store information on teachers as follows:
 5. Address of the teacher
 6. Salary upto 2 decimal places
 
-- [ ] Assignment ran successfully!
 
 ### Hands On Assignment Number Two
 Get order details from customer, which contain the name of the product, price and quantity. Print the values entered by the user.
