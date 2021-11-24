@@ -26,7 +26,7 @@ All of the codes in the repository were working as intended when it was run on m
 |One|Homework|ModOneHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModOneHW?v=1)|
 |Two|Hands On - 1|ModTwoEXOne.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoExOne?v=1)|
 |Two|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXTwo?v=1)|
-|Two|Hands On - 3|ModTwoEXThree.java|Error! Wrong Output|[Link](https://replit.com/@C0d3r91/ModTwoEXThree?v=1)|
+|Two|Hands On - 3|ModTwoEXThree.java|Fixed Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXThree?v=1)|
 |Two|Hands On - 4|ModTwoEXFour.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXFour?v=1)|
 |Two|Hands On - 5|ModTwoEXFive.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXFive?v=1)|
 |Two|Homework|ModTwoHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoHW?v=1)|
