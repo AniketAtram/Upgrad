@@ -19,7 +19,7 @@ All of the codes in the repository were working as intended when it was run on m
 
 # INDEX
 
-|Module Number|Assignment Type|Source Code|
+|Module Number|Assignment Type|Source Code Name|
 |:--|:--|:--|
 |One|Hands On|ModOneEXOne.java|
 
