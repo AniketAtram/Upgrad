@@ -2,39 +2,29 @@ import java.util.Scanner;
 class ModTwoEXThree {
   public static void main(String[] args) {
 
-    // Declaring variables  
     Scanner input = new Scanner(System.in);
 
-    int sugarLevel;
-    String mealStatus;
+  		System.out.println("Enter your blood sugar level while fasting");
+  		int sugarLevelFasting = input.nextInt();
+  		System.out.println("Enter your blood sugar level before meal");
+  		int sugarLevelBeforeMeal = input.nextInt();
+  		System.out.println("Enter your blood sugar level after meal");
+  		int sugarLevelAfterMeal = input.nextInt();
 
-    // User input
-    System.out.println("Your meal status");
-    mealStatus = input.nextLine();
-    System.out.println("Enter the Blood Sugar Level");
-    sugarLevel = input.nextInt();
-    
-    input.close();
+  		// System.out.println(sugarLevelFasting);
+  		// System.out.println(sugarLevelBeforeMeal);
+  		// System.out.println(sugarLevelAfterMeal);
 
-    // Check if person is diabetic or not
+  		String okMsg = "Your blood sugar level is normal";
+  		String notOkMsg = "You have diabetes...";
 
-    if(sugarLevel < 100 && mealStatus == "fasting")
-    {
-        System.out.println("Your blood sugar level is normal");
-    }
-    else if(sugarLevel < 130 && mealStatus == "before a meal")
-    {
-         System.out.println("Your blood sugar level is normal");
-    }
-    else if(sugarLevel < 180 && mealStatus == "taking a meal")
-    {
-         System.out.println("Your blood sugar level is normal");
-    }
-    else
-    {
-         System.out.println("You have diabetes!!");
-    }
+  		if((sugarLevelFasting < 100) && (sugarLevelBeforeMeal < 130) && (sugarLevelAfterMeal < 180)) {
+  			System.out.println(okMsg);
+  		}
 
+  		else {
+  			System.out.println(notOkMsg);
+  		}
 
   }
 }
