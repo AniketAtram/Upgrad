@@ -91,8 +91,9 @@ An online car rental application has the following steps to rent a car:
 - Otherwise, the car is not booked.
 
 Write a program that takes the following inputs from the user:
-1. Whether they are looking to rent a car in Mumbai
-2. Number of hours for which the car is needed
+1. Whether they are looking to rent a car in Mumbai.
+2. Number of hours for which the car is needed.
+
 **Note**: The bill is calculated by multiplying the number of hours by 100.
 
 
