@@ -40,14 +40,14 @@ You are designing an asset-tracking systemthat allows the user to enter the foll
 
 Write a program that takes the inputs above from the user and prints them to the console. 
 
-Input Format:
--- The first line contains the asset tracking number, which is an integer.
--- The second line contains the asset name, which is a string.
--- The third line contains the asset value, which is a float number.
-Output Format:
--- The first line contains the asset tracking number input by the user.
--- The second line contains the asset name input by the user.
--- The third line contains the asset value input by the user.
+- Input Format:
+	- The first line contains the asset tracking number, which is an integer.
+	- The second line contains the asset name, which is a string.
+	- The third line contains the asset value, which is a float number.
+- Output Format:
+	- The first line contains the asset tracking number input by the user.
+	- The second line contains the asset name input by the user.
+	- The third line contains the asset value input by the user.
 
  
 
