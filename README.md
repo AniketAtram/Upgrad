@@ -26,7 +26,7 @@ In a college, there is a need to store information on teachers as follows:
 5. Address of the teacher
 6. Salary upto 2 decimal places
 
-- [x] Assignment ran successfully!
+- [ ] Assignment ran successfully!
 
 ### Hands On Assignment Number Two
 Get order details from customer, which contain the name of the product, price and quantity. Print the values entered by the user.
