@@ -15,7 +15,7 @@ All of the codes in the repository were working as intended when it was run on m
 |Loops And Methods|24/11/2021|Incomplete|
 |Strings and Arrays|25/11/2021|Incomplete|
 |Revision Session|26/11/2021|Incomplete|
-|Version Controlled System - Git|27/11/2021|Complete|
+|Version Controlled System - Git|27/11/2021|Incomplete|
 
 # INDEX
 
