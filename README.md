@@ -10,7 +10,7 @@ All of the codes in the repository were working as intended when it was run on m
 # Time Table
 |Session Name|Session Date|Status|
 |:--|:--|:--:|
-|Introduction to Java Programming|22/11/2021|- [X]|
+|Introduction to Java Programming|22/11/2021|[X]|
 
 # INDEX
 
