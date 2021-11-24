@@ -15,7 +15,7 @@ All of the codes in the repository were working as intended when it was run on m
 
 ## Module One: Introduction to Java programming
 
-### Hands on Assignment Number One
+### Hands On Assignment Number One
 
 In a college, there is a need to store information on teachers as follows:
 
@@ -26,6 +26,30 @@ In a college, there is a need to store information on teachers as follows:
 5. Address of the teacher
 6. Salary upto 2 decimal places
 
+### Hands On Assignment Number Two
+Get order details from customer, which contain the name of the product, price and quantity. Print the values entered by the user.
+
+### Hands On Assignment Number Three
+Take integer as input and cast it as double.
+
+### Homework Assignment
+You are designing an asset-tracking systemthat allows the user to enter the following details
+1. **Asset Tracking Number**: It is an integer that is used to identify an asset
+2. **Asset Name**: It is the name of the asset
+3. **Asset Value**: It denotes the price of an asset. An asset value can be 980.75
+
+Write a program that takes the inputs above from the user and prints them to the console. 
+
+Input Format:
+-- The first line contains the asset tracking number, which is an integer.
+-- The second line contains the asset name, which is a string.
+-- The third line contains the asset value, which is a float number.
+Output Format:
+-- The first line contains the asset tracking number input by the user.
+-- The second line contains the asset name input by the user.
+-- The third line contains the asset value input by the user.
+
+ 
 
 
 
