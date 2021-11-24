@@ -101,6 +101,31 @@ You want to find out which is the current month on the calendar. Take an integer
 
 **Note**: The default should be January.
 
+## Homework Assignment
+Find out the largest number among the three given numbers.
+
+**Input Format**:
+- The first line contains the first number
+- The second line contains the second number
+- The third line contains the third number
+
+**Output Format**:
+- The first line contains the value of the largest number
+
+**Sample Input**:
+```
+12
+4
+5
+```
+
+**Sample Output**:
+```
+12
+``` 
+
+
+
 
 
 
