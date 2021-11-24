@@ -96,6 +96,11 @@ Write a program that takes the following inputs from the user:
 
 **Note**: The bill is calculated by multiplying the number of hours by 100.
 
+### Hands On Assignment Number Five
+You want to find out which is the current month on the calendar. Take an integer input from the user and find out which month is it. 
+
+**Note**: The default should be January.
+
 
 
 
