@@ -1,4 +1,4 @@
-![UpGrad Logo](https://servicesdown.in/img/upgrad-logo.png)
+![UpGrad Logo](https://www.dropbox.com/s/wzdbadr1fxjahha/upgrad-logo.png?dl=0)
 # PG Diploma In Fullstack Software Development
 
 ## Overview
