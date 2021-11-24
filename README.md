@@ -22,14 +22,14 @@ All of the codes in the repository were working as intended when it was run on m
 |Module Number|Assignment Type|Source Code Name|Status|Live Demo|
 |:--|:--|:--|:--:|:--:|
 |One|Hands On -1|ModOneEXOne.java|Executed Successfully|[Link](https://bit.ly/3nPgTzM)|
-|One|Hands On - 2|ModOneEXTwo.java|Executed Successfully|
-|One|Homework|ModOneHW.java|Executed Successfully|
-|Two|Hands On - 1|ModTwoEXOne.java|Executed Successfully|
-|Two|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|
-|Two|Hands On - 3|ModTwoEXThree.java|Executed Successfully|
-|Two|Hands On - 4|ModTwoEXFour.java|Error|
-|Two|Hands On - 5|ModTwoEXFive.java|Executed Successfully|
-|Two|Homework|ModTwoHW.java|Executed Successfully|
+|One|Hands On - 2|ModOneEXTwo.java|Executed Successfully|[Link](https://bit.ly/3I1AkgT)|
+|One|Homework|ModOneHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModOneHW?v=1)|
+|Two|Hands On - 1|ModTwoEXOne.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoExOne?v=1)|
+|Two|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXTwo?v=1)|
+|Two|Hands On - 3|ModTwoEXThree.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXThree?v=1)|
+|Two|Hands On - 4|ModTwoEXFour.java|Error|[Link](https://replit.com/@C0d3r91/ModTwoEXFour?v=1)|
+|Two|Hands On - 5|ModTwoEXFive.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXFive?v=1)|
+|Two|Homework|ModTwoHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoHW?v=1)|
 
 ## Module One: Introduction to Java programming
 
