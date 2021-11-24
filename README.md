@@ -21,15 +21,14 @@ All of the codes in the repository were working as intended when it was run on m
 
 |Module Number|Assignment Type|Source Code Name|Status|
 |:--|:--|:--|:--:|
-|One|Hands On|ModOneEXOne.java|Executed Successfully|
-|One|Hands On|ModOneEXTwo.java|Executed Successfully|
+|One|Hands On -1|ModOneEXOne.java|Executed Successfully|
+|One|Hands On - 2|ModOneEXTwo.java|Executed Successfully|
 |One|Homework|ModOneHW.java|Executed Successfully|
-|Two|Hands On|ModOneHW.java|Executed Successfully|
-|Two|Hands On|ModTwoEXOne.java|Executed Successfully|
-|Two|Hands On|ModTwoEXTwo.java|Executed Successfully|
-|Two|Hands On|ModTwoEXThree.java|Executed Successfully|
-|Two|Hands On|ModTwoEXFour.java|Error|
-|Two|Hands On|ModTwoEXFive.java|Executed Successfully|
+|Two|Hands On - 1|ModTwoEXOne.java|Executed Successfully|
+|Two|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|
+|Two|Hands On - 3|ModTwoEXThree.java|Executed Successfully|
+|Two|Hands On - 4|ModTwoEXFour.java|Error|
+|Two|Hands On - 5|ModTwoEXFive.java|Executed Successfully|
 |Two|Homework|ModTwoHW.java|Executed Successfully|
 
 ## Module One: Introduction to Java programming
