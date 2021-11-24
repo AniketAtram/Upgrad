@@ -19,12 +19,12 @@ All of the codes in the repository were working as intended when it was run on m
 
 In a college, there is a need to store information on teachers as follows:
 
-1. Name of the teacher
-2. Age of the teacher
-3. Gender
-4. Adhaar Card Number
-5. Address of the teacher
-6. Salary upto 2 decimal places
+1. [] Name of the teacher
+2. [] Age of the teacher
+3. [] Gender
+4. [] Adhaar Card Number
+5. [] Address of the teacher
+6. [] Salary upto 2 decimal places
 
 ### Hands On Assignment Number Two
 Get order details from customer, which contain the name of the product, price and quantity. Print the values entered by the user.
