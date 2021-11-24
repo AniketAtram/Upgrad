@@ -19,9 +19,9 @@ All of the codes in the repository were working as intended when it was run on m
 
 # INDEX
 
-|Module Number|Assignment Type|Source Code Name|Status|
-|:--|:--|:--|:--:|
-|One|Hands On -1|ModOneEXOne.java|Executed Successfully|
+|Module Number|Assignment Type|Source Code Name|Status|Live Demo|
+|:--|:--|:--|:--:|:--:|
+|One|Hands On -1|ModOneEXOne.java|Executed Successfully|![Link](https://bit.ly/3nPgTzM)|
 |One|Hands On - 2|ModOneEXTwo.java|Executed Successfully|
 |One|Homework|ModOneHW.java|Executed Successfully|
 |Two|Hands On - 1|ModTwoEXOne.java|Executed Successfully|
