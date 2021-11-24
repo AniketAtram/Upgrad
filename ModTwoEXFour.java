@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class ModTwoEXFour {
   public static void main(String[] args) {
-    
+
     // Declaring variables
 
     Scanner input = new Scanner(System.in);
@@ -11,7 +11,7 @@ class ModTwoEXFour {
     // Check for the conditions
 
     // is user looking to rent a car in Mumbai?
-    
+
     System.out.println("Are you looking to rent a car in Mumbai?");
     wantsCarInMumbai = input.nextBoolean();
 
@@ -31,7 +31,7 @@ class ModTwoEXFour {
             {
                  System.out.println("Sorry! Unable to book your car!!");
             }
-        } 
+        }
         else
         {
             System.out.println("Sorry! Unable to book your car!!");
