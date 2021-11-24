@@ -60,6 +60,20 @@ Write a program that takes the inputs above from the user and prints them to the
 	- The second line contains the asset name input by the user.
 	- The third line contains the asset value input by the user.
 
+**Sample Input**:
+```
+8511
+Speaker
+10099.99
+```
+
+**Sample Output**:
+```
+8511
+Speaker
+10099.99
+```
+
 
  
 ## Module Two: Operators and Conditionals
