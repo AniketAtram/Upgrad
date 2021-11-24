@@ -60,11 +60,43 @@ Write a program that takes the inputs above from the user and prints them to the
 	- The second line contains the asset name input by the user.
 	- The third line contains the asset value input by the user.
 
+
  
-- [ ] Task One
-- [ ] Task Two
-- [ ] Task Three
- 
+## Module Two: Operators and Conditionals
+
+### Hands On Assignmet Nummber One
+Take two integers as input and perform the following operations on them:
+
+1. Find their product.
+2. Increment the first number by 1.
+3. Find out the minimum value.
+4. Perform the AND operation between them.
+
+### Hands On Assignment Number Two
+Take a number as an input from the user and find out whether the number is even or odd
+
+### Hands On Assignment Number Three
+Write a program that decides whether a person is diabetic or not depending on their sugar level as per the following ranges:
+1. If less than 100 and fasting - **normal**
+2. If less than 130 before a meal  - **normal**
+3. If less than 180 after taking a meal - **normal**
+4. If none of the above - **diabetic**
+
+### Hands On Assignment Number Four
+An online car rental application has the following steps to rent a car:
+- Is the user looking to rent a car in Mumbai?
+	-If yes, is the number of hours requested by the user greater than 3?
+		-If yes, is the total bill higher than ₹300?
+			-If yes, the car is booked.
+- Otherwise, the car is not booked.
+
+Write a program that takes the following inputs from the user:
+1. Whether they are looking to rent a car in Mumbai
+2. Number of hours for which the car is needed
+**Note**: The bill is calculated by multiplying the number of hours by 100.
+
+
+
 
 
 
