@@ -85,9 +85,9 @@ Write a program that decides whether a person is diabetic or not depending on th
 ### Hands On Assignment Number Four
 An online car rental application has the following steps to rent a car:
 - Is the user looking to rent a car in Mumbai?
- - If yes, is the number of hours requested by the user greater than 3?
-  - If yes, is the total bill higher than ₹300?
-   - If yes, the car is booked.
+	- If yes, is the number of hours requested by the user greater than 3?
+		- If yes, is the total bill higher than ₹300?
+			- If yes, the car is booked.
 - Otherwise, the car is not booked.
 
 Write a program that takes the following inputs from the user:
