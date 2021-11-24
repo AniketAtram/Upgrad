@@ -61,8 +61,10 @@ Write a program that takes the inputs above from the user and prints them to the
 	- The third line contains the asset value input by the user.
 
  
-
-
+- [ ] Task One
+- [ ] Task Two
+- [ ] Task Three
+ 
 
 
 
