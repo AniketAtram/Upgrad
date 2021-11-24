@@ -19,11 +19,18 @@ All of the codes in the repository were working as intended when it was run on m
 
 # INDEX
 
-|Module Number|Assignment Type|Source Code Name|
-|:--|:--|:--|
-|One|Hands On|ModOneEXOne.java|
-|One|Hands On|ModOneEXTwo.java|
-|One|Hands On|ModOneHW.java|
+|Module Number|Assignment Type|Source Code Name|Status|
+|:--|:--|:--|:--:|
+|One|Hands On|ModOneEXOne.java|Executed Successfully|
+|One|Hands On|ModOneEXTwo.java|Executed Successfully|
+|One|Homework|ModOneHW.java|Executed Successfully|
+|Two|Hands On|ModOneHW.java|Executed Successfully|
+|Two|Hands On|ModTwoEXOne.java|Executed Successfully|
+|Two|Hands On|ModTwoEXTwo.java|Executed Successfully|
+|Two|Hands On|ModTwoEXThree.java|Executed Successfully|
+|Two|Hands On|ModTwoEXFour.java|Error|
+|Two|Hands On|ModTwoEXFive.java|Executed Successfully|
+|Two|Homework|ModTwoHW.java|Executed Successfully|
 
 ## Module One: Introduction to Java programming
 
