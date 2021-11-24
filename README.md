@@ -22,6 +22,8 @@ All of the codes in the repository were working as intended when it was run on m
 |Module Number|Assignment Type|Source Code Name|
 |:--|:--|:--|
 |One|Hands On|ModOneEXOne.java|
+|One|Hands On|ModOneEXTwo.java|
+|One|Hands On|ModOneHW.java|
 
 ## Module One: Introduction to Java programming
 
