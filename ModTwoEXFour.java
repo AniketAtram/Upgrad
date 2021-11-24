@@ -12,7 +12,7 @@ class ModTwoEXFour {
 
     // is user looking to rent a car in Mumbai?
 
-    System.out.println("Are you looking to rent a car in Mumbai?");
+    System.out.println("Are you looking to rent a car in Mumbai?(true/false)");
     wantsCarInMumbai = input.nextBoolean();
 
     if(wantsCarInMumbai) // Is the user looking to rent a car in Mumbai?
