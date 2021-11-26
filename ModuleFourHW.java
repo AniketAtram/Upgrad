@@ -66,5 +66,61 @@ public class ModuleFourHW
             System.out.println(x);
         }
         */
+
+        /*
+        Questions 1: Is it possible to write a method that takes string as an input and returns an array?
+        If no, then why? If yes, then can we create a method/function in the code above that will take user
+        entered string as input arguments and returns a character array for the first approach where string is converted
+        into a character array?
+
+        Example:
+        public static <some_datatype><function_name>(<string_entered_by_user>)
+        {
+            some function logic;
+            .
+            .
+            .
+            return <array_of_characters_in_the_string_entered_by_user>
+        }
+
+
+        Question 2: In our program, we are asking user to input a character. But when the user inputs a string
+        like "ab" or "dfg", the program halts and an error message is shown. With the help of while loop, or a
+        do-while loop, is it possible to modify the code in such a way that when the user inputs anything else other
+        than character, the program should prompt user to "enter a character" until user makes a correct input.
+
+        Example:
+        boolean exitFlag = false;
+        while(!exitFlag)
+        {
+            #ask user to input a string;
+            #ask user to input a character;
+            if(user_input != character)
+            {
+                #ask user to input a character
+            }
+            else if(use_input_is_in_correct_format)
+            {
+                #store the input in variables;
+                exitFlag = true;
+            }
+        }
+
+        Question 3: Similar to first query, is it possible to encapsulate the second phase where we are checking the count
+        of character in character array into a method/function where the function takes character to be checked and the array
+        as arguments and returns the count of the character in an array?
+
+        Example:
+        public static <some_datatype><function_name>(<array_of_characters>, <charater_to_be_checked>)
+        {
+            some function logic;
+            .
+            .
+            .
+            return <num_of_occurrence_of_character_to_be_checked>
+        }
+        */
+
+
     }
 }
