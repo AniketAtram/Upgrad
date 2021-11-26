@@ -20,7 +20,7 @@ All of the codes in the repository were working as intended when it was run on m
 # Index
 
 |Module Name|Assignment Type|Source Code Name|Status|
-|:--|:--|:--|:--:|:--:|
+|:--|:--|:--|:--:|
 |Introduction to Java|Hands On -1|ModOneEXOne.java|Executed Successfully|
 |Introduction to Java|Hands On - 2|ModOneEXTwo.java|Executed Successfully|
 |Introduction to Java|Homework|ModOneHW.java|Executed Successfully|
