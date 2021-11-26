@@ -3,7 +3,7 @@
 Pseudo-code:
 Step1: Take input from the user as a string
 Step2: Ask user what specific character it wants to count
-Step3: Convert the input string to character array using Java's inbuilt methods
+Step3: Convert the input string to character array using Java's inbuilt methods or naive approach 
 Step6: Loop through each character and count the sequence and print it to the user
 */
 
