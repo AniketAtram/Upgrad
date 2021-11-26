@@ -19,17 +19,25 @@ All of the codes in the repository were working as intended when it was run on m
 
 # Index
 
-|Module Name|Assignment Type|Source Code Name|Status|Live Demo|
+|Module Name|Assignment Type|Source Code Name|Status|
 |:--|:--|:--|:--:|:--:|
-|Introduction to Java|Hands On -1|ModOneEXOne.java|Executed Successfully|[Link](https://bit.ly/3nPgTzM)|
-|Introduction to Java|Hands On - 2|ModOneEXTwo.java|Executed Successfully|[Link](https://bit.ly/3I1AkgT)|
-|Introduction to Java|Homework|ModOneHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModOneHW?v=1)|
-|Operators and Conditionals|Hands On - 1|ModTwoEXOne.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoExOne?v=1)|
-|Operators and Conditionals|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXTwo?v=1)|
-|Operators and Conditionals|Hands On - 3|ModTwoEXThree.java|Fixed Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXThree?v=1)|
-|Operators and Conditionals|Hands On - 4|ModTwoEXFour.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXFour?v=1)|
-|Operators and Conditionals|Hands On - 5|ModTwoEXFive.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoEXFive?v=1)|
-|Operators and Conditionals|Homework|ModTwoHW.java|Executed Successfully|[Link](https://replit.com/@C0d3r91/ModTwoHW?v=1)|
+|Introduction to Java|Hands On -1|ModOneEXOne.java|Executed Successfully|
+|Introduction to Java|Hands On - 2|ModOneEXTwo.java|Executed Successfully|
+|Introduction to Java|Homework|ModOneHW.java|Executed Successfully|
+|Operators and Conditionals|Hands On - 1|ModTwoEXOne.java|Executed Successfully|
+|Operators and Conditionals|Hands On - 2|ModTwoEXTwo.java|Executed Successfully|
+|Operators and Conditionals|Hands On - 3|ModTwoEXThree.java|Fixed Executed Successfully|
+|Operators and Conditionals|Hands On - 4|ModTwoEXFour.java|Executed Successfully|
+|Operators and Conditionals|Hands On - 5|ModTwoEXFive.java|Executed Successfully|
+|Operators and Conditionals|Homework|ModTwoHW.java|Executed Successfully|
+|Loops and Methods|Hands On - 1|ModuleThreeEXOne|Executed Successfully|
+|Loops and Methods|Hands On - 2|ModuleThreeEXTwo|Executed Successfully|
+|Loops and Methods|Hands On - 3|ModuleThreeEXThree|Executed Successfully|
+|Loops and Methods|Hands On - 4|ModuleThreeEXFour|Executed Successfully|
+|Loops and Methods|Hands On - 5|ModuleThreeEXFive|Executed Successfully|
+|Loops and Methods|Hands On - 6|ModuleThreeEXSix|Executed Successfully|
+|Loops and Methods|Homework|ModuleThreehw|Not Uploaded/ Partially executed|
+|Strings and Arrays|Homework|ModuleFourHW|Executed Successfully|
 
 ## Module One: Introduction to Java programming
 
